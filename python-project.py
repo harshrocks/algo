@@ -1,3 +1,6 @@
+import webbrowser
+
+webbrowser.open("www.google.com")
 def play():
     import random
     guessesTaken=0
